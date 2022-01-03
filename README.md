@@ -1,2 +1,21 @@
-# An Analysis of Kickstarter Campaigns
-This is a collection of data on outcomes for various kickstarter projects ![data-1-1-3-StarterBook Lasho](\Users\tlr20\Desktop\CLASS\data-1-1-3-StarterBook Lasho.xlsx). Louise is interested in exploring a campaign for a specific category, theater. This analysis will focus on theater but will also provide data on outcomes of other categories as well.  According to this data, there were 525 successful theater Kickstarters.  In Great Britain, the theater category represents the most successful of the plays-campaigns (of which there were 604 represented).  Launching in May was best for overall for Kickstarter successes ![Picture of Outcomes Based on Launch Date](\Users\tlr20\Desktop\CLASS\Picture of Outcomes Based on Launch Date.png) -see the month vs. # of successful outcomes. To find a campaign most similar to what Louise is looking for, we focused on a single play called Foresight (campaign took place in Great Britain) and provided the spread of the dataset, including mean, median, standard deviation and ranges.  Louise wants to ask for greater than twice the average total funding for her Kickstarter campaign, and the data shows the trend that failed Kickstarter campaigns have much higher fund goals than successful ones.  However, the data shows that asking for too much doesn’t mean that the campaign will fail because the mean and median of pledges for the unsuccessful campaigns are lower than successful ones. So there must be other factors.  Finally, Louise is interested in musical campaigns launched in Great Britain.  We created a box plot showing the distribution of pledges and campaign goals -image is located in 'BoxPlot' sheet on master xlsx.  Overall, Louise should try to shoot for producing at  less than £4,000.
+# Looping on through
+
+Now it's your chance to see how quickly we can create data utilizing the power of a computer and `for` loops!
+
+## Instructions
+
+* Create a `for` loop that will produce the following example. The lines signify new cells.
+
+|  A | B  |  C |
+|:---:|:---:|:---:|
+| I will eat | 11 | Chicken Nuggets |
+| I will eat | 12 | Chicken Nuggets |
+| I will eat | 13 | Chicken Nuggets |
+| I will eat | 14 | Chicken Nuggets |
+| I will eat | 15 | Chicken Nuggets |
+| I will eat | 16 | Chicken Nuggets |
+| I will eat | 17 | Chicken Nuggets |
+| I will eat | 18 | Chicken Nuggets |
+| I will eat | 19 | Chicken Nuggets |
+| I will eat | 20 | Chicken Nuggets |
+
