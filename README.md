@@ -1,15 +1,21 @@
-# Choose Your Story
+# Looping on through
+
+Now it's your chance to see how quickly we can create data utilizing the power of a computer and `for` loops!
 
 ## Instructions
 
-* Create a simple Excel workbook and VBA macro in which a user is provided a single button to click. Based on the number they provide in a text box above, a different message box will appear.
+* Create a `for` loop that will produce the following example. The lines signify new cells.
 
-  * If the user enters a value of 1, display: “You choose to enter the wooded forest of doom!”
+|  A | B  |  C |
+|:---:|:---:|:---:|
+| I will eat | 11 | Chicken Nuggets |
+| I will eat | 12 | Chicken Nuggets |
+| I will eat | 13 | Chicken Nuggets |
+| I will eat | 14 | Chicken Nuggets |
+| I will eat | 15 | Chicken Nuggets |
+| I will eat | 16 | Chicken Nuggets |
+| I will eat | 17 | Chicken Nuggets |
+| I will eat | 18 | Chicken Nuggets |
+| I will eat | 19 | Chicken Nuggets |
+| I will eat | 20 | Chicken Nuggets |
 
-  * If the user enters a value of 2, display: “You choose to enter the fiery volcano of doom!”
-
-  * If the user enters a value of 3, display: “You choose to enter the terrifying jungle of doom!”
-
-  * If the user enters a value of 4, display a similar custom message.
-
-  * If the user enters anything else, display: “Try following directions”
