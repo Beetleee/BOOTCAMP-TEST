@@ -1,21 +1,11 @@
-# Looping on through
+# TypeRighter
 
-Now it's your chance to see how quickly we can create data utilizing the power of a computer and `for` loops!
+Change the data types of variables so the code will run without errors. 
 
 ## Instructions
 
-* Create a `for` loop that will produce the following example. The lines signify new cells.
+Five variables have been created, but they’re declared as Object types, so the lines of code assigning values to them are causing errors!
 
-|  A | B  |  C |
-|:---:|:---:|:---:|
-| I will eat | 11 | Chicken Nuggets |
-| I will eat | 12 | Chicken Nuggets |
-| I will eat | 13 | Chicken Nuggets |
-| I will eat | 14 | Chicken Nuggets |
-| I will eat | 15 | Chicken Nuggets |
-| I will eat | 16 | Chicken Nuggets |
-| I will eat | 17 | Chicken Nuggets |
-| I will eat | 18 | Chicken Nuggets |
-| I will eat | 19 | Chicken Nuggets |
-| I will eat | 20 | Chicken Nuggets |
+For each variable, change the data type in its Dim statement so that the code will run without errors.
 
+**Hint:** A list of VBA data types can be found in the [official documentation](https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/data-type-summary)
